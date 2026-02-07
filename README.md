@@ -1,16 +1,16 @@
-Intelligent-Intake-and-Expert-Matching-System
+**Intelligent-Intake-and-Expert-Matching-System**
 AI-powered wellness intake and expert matching assistant prototype with conversational assessment, classification, PDF summary generation, and session booking demo. 
-AI Wellness Intake & Expert Matching Assistant — Prototype
+**AI Wellness Intake & Expert Matching Assistant — Prototype**
 
 This repository contains a working prototype of an AI-powered wellness intake and expert matching assistant built for a B2B mental well-being platform use case (Product Manager assignment scenario).
 
 The prototype demonstrates how AI can improve first-session match quality, reduce drop-off, and increase utilization by combining conversational intake, structured classification, expert recommendation, PDF summary generation, and session booking inside a single chat flow.
 
-Overview
+**Overview**
 
 Users often struggle to choose the right counseling expert or support format. This AI assistant conducts a short conversational intake, understands the user’s concern, classifies severity and context, recommends the best-fit expert type, and converts intent into session booking — while generating a structured intake summary for expert preparation.
 
-Flow:
+**###Flow:**
 
 User → AI intake chat → need classification → expert recommendation → PDF intake summary → session booking
 
