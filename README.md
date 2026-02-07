@@ -49,7 +49,7 @@ Follow these steps to run the prototype locally.
 git clone <your-repo-url>
 cd <repo-folder>
 ```
-###Step 2- Create Virtual environment
+**###Step 2- Create Virtual environment**
 
 ```
 python -m venv venv
@@ -74,7 +74,7 @@ Go to https://console.groq.com/
 Create a free account
 Generate an API key
 ```
-###Step 5 — Create Environment File
+##**#Step 5 — Create Environment File**
 ```
 Create a file named .env in the project root folder and add:
 GROQ_API_KEY=your_groq_api_key_here
@@ -83,7 +83,7 @@ Example:
 ```
 GROQ_API_KEY=gsk_xxxxxxxxxxxxxxxxx
 ```
-###Step 6 — Run the Application
+**###Step 6 — Run the Application**
 ```
 streamlit run chatbot.py
 
