@@ -10,7 +10,7 @@ The prototype demonstrates how AI can improve first-session match quality, reduc
 
 Users often struggle to choose the right counseling expert or support format. This AI assistant conducts a short conversational intake, understands the user’s concern, classifies severity and context, recommends the best-fit expert type, and converts intent into session booking — while generating a structured intake summary for expert preparation.
 
-**###Flow:**
+**Flow:**
 
 User → AI intake chat → need classification → expert recommendation → PDF intake summary → session booking
 
@@ -49,7 +49,7 @@ Follow these steps to run the prototype locally.
 git clone <your-repo-url>
 cd <repo-folder>
 ```
-**###Step 2- Create Virtual environment**
+**Step 2- Create Virtual environment**
 
 ```
 python -m venv venv
